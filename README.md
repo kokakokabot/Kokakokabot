@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokakokabot&label=Profile%20views&color=0e75b6&style=flat" alt="kokakokabot" /> </p>
 
-- 🔭 I’m currently working on **Analyzing Data**
-
 - 🌱 I’m currently learning **PyGame**
 
 - 👯 I’m looking to collaborate on **Data Analysis and Data Science Projects**
