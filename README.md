@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damir</h1>
-<h3 align="center">I'm a Data / Business Analyst</h3>
+<h3 align="center">I'm a Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokakokabot&label=Profile%20views&color=0e75b6&style=flat" alt="kokakokabot" /> </p>
 
